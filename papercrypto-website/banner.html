@@ -9,7 +9,7 @@
 <style>
 body{ 
 background-image: url(grafika/bckgrnd_title_menu-02.svg);
-background-size: 100%;
+background-size: 80%;
 background-repeat: no-repeat;
 background-position: top;
 }
@@ -24,7 +24,7 @@ ul ul {display: none;}
 ul li:hover > ul {display: block;}
 
 /*POZIOM 1*/
-#mainmenu {margin: 10px 50px; font-family: calibri; tahoma, arial;}
+#mainmenu {margin: -20px 50px; font-family: calibri; tahoma, arial;}
 #mainmenu > li > a {display: table; width: auto; padding: 8px; border-radius: 3px; text-align: center; text-decoration: none; color: #84c5f7;}
 #mainmenu > li:hover > a {background: #eee; color: #0090ff;}
 
@@ -42,23 +42,24 @@ ul ul .arrow {top: 10px; right: 0; border-top: 3px solid transparent; border-rig
 <body>
 
 <center><img width=50% src="grafika/feather_key_dark.png"></center>
+
 <center><table><tr><td>
 <ul id="mainmenu">
-	<li><a href="#"><img src="grafika/buttony/home_link-01.png"></a></li>
-	<li><a href="#"><img src="grafika/buttony/history_link_OTP History.png"></a></li>
-	<li><a href="#"><img src="grafika/buttony/about_link_About OTP.png"></a></li>
+	<li><a target="home" href="home.html"><img src="grafika/buttony/home_link-01.png"></a></li>
+	<li><a target="home" href="history.html"><img src="grafika/buttony/history_link_OTP History.png"></a></li>
+	<li><a target="home" href="about.html"><img src="grafika/buttony/about_link_About OTP.png"></a></li>
 	<li><a href="#"><img src="grafika/buttony/how_link_How it works-.png"><i class="arrow"></i></a>
 		<ul>
-			<li><a href="#"><img src="grafika/buttony/example_1_link_Example 1.png"></a></li>
-			<li><a href="#"><img src="grafika/buttony/example_2_link_Example 2.png"></a></li>
-			<li><a href="#"><img src="grafika/buttony/example_3_link_Example 3.png"></a></li>
-			<li><a href="#"><img src="grafika/buttony/example_4_link_Example 4.png"></a></li>
+			<li><a target="home" href="ex1.html"><img src="grafika/buttony/example_1_link_Example 1.png"></a></li>
+			<li><a target="home" href="ex2.html"><img src="grafika/buttony/example_2_link_Example 2.png"></a></li>
+			<li><a target="home" href="ex3.html"><img src="grafika/buttony/example_3_link_Example 3.png"></a></li>
+			<li><a target="home" href="ex4.html"><img src="grafika/buttony/example_4_link_Example 4.png"></a></li>
 		</ul>
 	</li>
 	<li><a href="#"><img src="grafika/buttony/program_link_Program.png"><i class="arrow"></i></a>
 		<ul>
-			<li><a href="#"><img src="grafika/buttony/download_link_Download.png"></a></li>
-			<li><a href="#"><img src="grafika/buttony/manual_link_Manual.png"></a>
+			<li><a href="https://github.com/jarek1402b/papercrypto"><img src="grafika/buttony/download_link_Download.png"></a></li>
+			<li><a target="home" href="instruction-OTP.html"><img src="grafika/buttony/manual_link_Manual.png"></a>
 			</li>
 		</ul>
 	</li>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="568.033px" height="115.304px" viewBox="0 247.689 568.033 115.304" enable-background="new 0 247.689 568.033 115.304"
+	 xml:space="preserve">
+<g>
+	<path opacity="0.3" fill="#F4F1A0" enable-background="new    " d="M96.117,345.579c6.709,3.072,9.136,12.914,8.918,26.498h449.072
+		c7.451-48.861,3.53-101.277-48.201-106.31c0,0-60.897-21.526-217.81,7.679c-156.913,29.205-161.182-22.488-192.207-20.391
+		C64.867,255.154,50.775,316.845,96.117,345.579z"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="324.1921" y1="279.4651" x2="282.8641" y2="475.5534" gradientTransform="matrix(1 0 0 -1 -0.0454 656.856)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.0869" style="stop-color:#F6F6F6"/>
+		<stop  offset="0.2169" style="stop-color:#E4E5E6"/>
+		<stop  offset="0.3739" style="stop-color:#C9CACB"/>
+		<stop  offset="0.552" style="stop-color:#A3A5A7"/>
+		<stop  offset="0.7478" style="stop-color:#76777A"/>
+		<stop  offset="0.9555" style="stop-color:#313131"/>
+		<stop  offset="1" style="stop-color:#010101"/>
+	</linearGradient>
+	<path opacity="0.6" fill="url(#SVGID_1_)" enable-background="new    " d="M97.953,252.993c0,0-69.372,28.942,0.223,92.525
+		c0,0,91.929-6.219,192.395-10.973c118.522-5.609,248.935-12.033,254.416-45.122c6.035-36.433-192.046-29.753-222.925-23.462
+		C291.182,272.258,195.496,300.343,97.953,252.993z"/>
+	<path fill="none" stroke="#010101" stroke-width="2.126" stroke-miterlimit="10" d="M498.014,335.927l-209.099-3.898
+		l-190.742,13.49c-59.497-49.999-15.75-97.76,4.374-92.061s46.881,50.894,201.243,15.08c79.499-18.443,190.742-4.002,190.742-4.002
+		c-73.784-0.543-44.204,35.603-34.033,46.042c61.731,63.375,59.511-11.319,59.511-11.319l-33.554,3.596"/>
+	<path fill="none" stroke="#010101" stroke-width="2.126" stroke-miterlimit="10" d="M494.534,264.536
+		c0,0,62.379-2.074,62.379,61.424l-0.361,45.5"/>
+	<line fill="none" stroke="#010101" stroke-width="2.126" stroke-miterlimit="10" x1="106" y1="345.077" x2="106" y2="372.077"/>
+</g>
+</svg>
